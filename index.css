@@ -1,0 +1,20 @@
+header h1 {
+    padding: 100px;
+    margin: 100px;
+}
+
+.direita {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.card-lista {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
+.direita-texto {
+    text-align: right;
+}
